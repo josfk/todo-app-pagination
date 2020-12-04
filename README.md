@@ -30,7 +30,7 @@ yarn
 amplify init # follow the prompts
 ```
 
-3. Push to the could
+3. Push to the cloud
 
 ```sh
 amplify push # follow the prompts
